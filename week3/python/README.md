@@ -5,6 +5,8 @@
 *   [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)
 *   [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)
 *   [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)
+*   [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+*   [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
 
 
 ### Binary search
