@@ -17,7 +17,7 @@
 [x]      [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
 []      [561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/)
 [x]      [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
-[]      [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
+[x]      [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
 
 
 ### Recursion and memoization
