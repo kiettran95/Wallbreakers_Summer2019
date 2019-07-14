@@ -7,6 +7,7 @@
 *   [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)
 *   [452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 *   [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
+*   [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
 
 ### Binary search
