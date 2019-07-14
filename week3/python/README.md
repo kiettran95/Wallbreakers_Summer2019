@@ -21,8 +21,8 @@
 
 
 ### Recursion and memoization
-- [ ]      [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
-- [ ]      [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+- [x]      [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
+- [x]      [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 - [ ]      [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)
 - [ ]      [213. House Robber II](https://leetcode.com/problems/house-robber-ii/description/)
 - [ ]      [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
