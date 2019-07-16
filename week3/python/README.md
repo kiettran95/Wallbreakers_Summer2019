@@ -1,5 +1,6 @@
 # Week #3 Coding Exercises
 
+
 ### Greedy algorithms
 - [x]      [860. Lemonade Change](https://leetcode.com/problems/lemonade-change)
 - [x]      [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)
