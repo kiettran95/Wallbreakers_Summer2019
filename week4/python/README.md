@@ -5,7 +5,7 @@
 - [x]      [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 - [x]      [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
 - [x]      [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
-- [ ]      [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
+- [x]      [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
 
 
 ### Stacks
