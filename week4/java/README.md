@@ -16,7 +16,7 @@
 
 
 ### Queues
-- [ ]      [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+- [x]      [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
 - [ ]      [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 - [ ]      [189. Rotate Array](https://leetcode.com/problems/rotate-array)
 
