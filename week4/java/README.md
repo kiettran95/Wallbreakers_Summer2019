@@ -38,7 +38,7 @@
 - [x]      [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/)
 - [x]      [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
 - [x]      [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/)
-- [ ]      [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)
+- [x]      [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)
 
 
 ##  Resources
