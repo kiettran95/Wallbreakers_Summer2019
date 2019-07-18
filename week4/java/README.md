@@ -31,7 +31,7 @@
 - [x]      [46. Permutations](https://leetcode.com/problems/permutations/description/)
 - [x]      [77. Combinations](https://leetcode.com/problems/combinations/description/)
 - [x]      [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
-- [ ]      [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
+- [x]      [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
 
 
 ### Backtracking
