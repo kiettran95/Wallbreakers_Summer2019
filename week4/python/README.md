@@ -10,7 +10,7 @@
 
 ### Stacks
 - [x]      [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/)        
-- [ ]      [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)        
+- [x]      [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)        
 - [ ]      [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)        
 - [ ]      [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/)        
 
