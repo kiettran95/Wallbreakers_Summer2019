@@ -27,7 +27,7 @@
 
 
 ### Combinatorial generation
-- [ ]      [78. Subsets](https://leetcode.com/problems/subsets/description/)
+- [x]      [78. Subsets](https://leetcode.com/problems/subsets/description/)
 - [ ]      [46. Permutations](https://leetcode.com/problems/permutations/description/)
 - [ ]      [77. Combinations](https://leetcode.com/problems/combinations/description/)
 - [ ]      [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
