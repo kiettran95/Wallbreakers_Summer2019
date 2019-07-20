@@ -22,7 +22,7 @@
 
 
 ### Heaps
-- [ ]      [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
+- [x]      [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
 - [ ]      [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 
 
