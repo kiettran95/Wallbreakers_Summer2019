@@ -3,7 +3,7 @@
 
 ### Trees
 - [x]      [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/)
-- [ ]      [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/)
+- [x]      [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/)
 - [ ]      [100. Same Tree](https://leetcode.com/problems/same-tree/description/)
 - [ ]      [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)
 - [ ]      [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)
