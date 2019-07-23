@@ -12,7 +12,7 @@
 
 
 ### Graphs
-- [ ]      [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)        
+- [x]      [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)        
 - [ ]      [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)        
 - [ ]      [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)        
 - [ ]      [79. Word Search](https://leetcode.com/problems/word-search/description/)
