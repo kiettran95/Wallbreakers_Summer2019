@@ -15,7 +15,7 @@
 - [x]      [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)        
 - [x]      [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 - [x]      [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)        
-- [ ]      [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)        
+- [x]      [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)        
 - [ ]      [79. Word Search](https://leetcode.com/problems/word-search/description/)
 - [ ]      [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 - [ ]      [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/)        
